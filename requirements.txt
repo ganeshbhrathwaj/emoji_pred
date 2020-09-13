@@ -2,5 +2,4 @@ pandas
 numpy
 Flask
 Flask-RESTful
-re
 nltk
