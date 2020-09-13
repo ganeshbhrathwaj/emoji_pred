@@ -138,7 +138,7 @@ class GaneshTesting(Resource):
                     "exception" : str(e),
                 }
     
-api.add_resource(GaneshTesting,'/ganesh')
+api.add_resource(GaneshTesting,'/')
 
 if __name__ == '__main__':
     app.run()
