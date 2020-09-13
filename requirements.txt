@@ -1,0 +1,6 @@
+pandas
+nympy
+Flask
+Flask-RESTful
+re
+nltk
