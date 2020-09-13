@@ -4,3 +4,4 @@ Flask
 Flask-RESTful
 nltk
 regex
+uwsgi
