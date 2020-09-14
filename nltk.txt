@@ -1,3 +1,3 @@
-stem.porter
+stem
 corpus
 
