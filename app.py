@@ -6,7 +6,7 @@ import pandas as pd
 #cleaning the texts
 import re
 import nltk
-#nltk.download('stopwords')
+nltk.download('stopwords')
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 
