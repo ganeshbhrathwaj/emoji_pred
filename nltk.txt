@@ -1,3 +1,2 @@
-stopwords
 PorterStemmer
 punkt
