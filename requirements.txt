@@ -6,3 +6,4 @@ nltk
 regex
 scikit-learn
 uwsgi
+gunicorn
