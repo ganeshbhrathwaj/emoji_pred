@@ -1,9 +1,0 @@
-pandas
-numpy
-Flask
-Flask-RESTful
-nltk
-regex
-scikit-learn
-uwsgi
-gunicorn
